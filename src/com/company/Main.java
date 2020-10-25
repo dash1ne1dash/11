@@ -16,5 +16,9 @@ public class Main {
         int f=m+k;
         System.out.println(f);
         System.out.println("я синхронизировался я синхронизировался я синхронизировался я синхронизировался");
+
+        double TheLuckyOne = 1000000000;
+        System.out.println("my husband will earn "+TheLuckyOne +"by a day");
+
     }
 }
