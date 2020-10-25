@@ -8,6 +8,6 @@ public class Main {
 
 	int k=m;
         System.out.print(k);
-
+        System.out.print("фон бет самые быстрые выигрыши");
     }
 }
